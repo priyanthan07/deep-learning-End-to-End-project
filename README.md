@@ -2,10 +2,11 @@
 potato disease classification 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Requirements: 
-               Data (From kaggle)<br> 
-               Google Colab<br> 
-               fast API [all]<br> 
-               tf serving <br> React JS
+               Data (From kaggle)
+               Google Colab 
+               fast API [all]
+               tf serving 
+               React JS
 
 
 ## Scope of work
